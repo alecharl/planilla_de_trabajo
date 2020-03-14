@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;remito&apos; in &apos;oxpane.Material&apos; to &apos;tipo_remito&apos;&#x0D;&#x0A;- Original project: &apos;Trabajos_pendientes&apos;&#x0D;&#x0A;- Original element: &apos;oxpane.Material.remito&apos;&#x0D;&#x0A;- Renamed element: &apos;oxpane.Material.tipo_remito&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;remito&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;oxpane{Material.java[Material^remito" name="tipo_remito" references="true" setter="false" stamp="1541115700112" textual="false" version="1.0"/>
+</session>
